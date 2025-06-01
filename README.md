@@ -1,0 +1,3 @@
+This repository contains all scripts and plots used in the project.
+The directory structure is organized into MATLAB and Python folders.
+The PYTHON folder has additional subfolders for crosscorrelation analyses, USleep processing and plotting scripts.
