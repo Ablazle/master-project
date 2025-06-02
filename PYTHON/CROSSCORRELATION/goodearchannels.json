@@ -1,0 +1,396 @@
+{
+  "sub-325": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERC", "ERT", "ERE"]
+    }
+  },
+  "sub-562": {
+    "ses-01": {
+      "left": ["ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-152": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-957": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE"]
+    }
+  },
+  "sub-777": {
+    "ses-01": {
+      "left": ["ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-817": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERI"]
+    }
+  },
+  "sub-906": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-869": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-843": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC"]
+    }
+  },
+  "sub-400": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-260": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERB", "ERE", "ERI"]
+    }
+  },
+  "sub-142": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-422": {
+    "ses-01": {
+      "left": ["ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERT", "ERI"]
+    }
+  },
+  "sub-916": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-582": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-852": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELT", "ELE"],
+      "right": ["ERB", "ERC", "ERT", "ERE"]
+    }
+  },
+  "sub-298": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELB", "ELC", "ELE"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-856": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-360": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELC", "ELT", "ELE"],
+      "right": ["ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELB", "ELC", "ELE"],
+      "right": ["ERA", "ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-749": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-462": {
+    "ses-01": {
+      "left": ["ELA", "ELC", "ELE"],
+      "right": ["ERA", "ERB", "ERC", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERE"]
+    },
+    "ses-03": {
+      "left": ["ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-263": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELE"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE"]
+    },
+    "ses-02": {
+      "left": ["ELB", "ELC", "ELT", "ELE"],
+      "right": ["ERB", "ERT", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE"]
+    }
+  },
+  "sub-689": {
+    "ses-01": {
+      "left": ["ELB", "ELI"],
+      "right": ["ERC", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-913": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELB", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERC", "ERT"]
+    }
+  },
+  "sub-826": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELT"],
+      "right": ["ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-538": {
+    "ses-01": {
+      "left": ["ELB", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELC", "ELE", "ELI"],
+      "right": ["ERB", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELA", "ELE"],
+      "right": ["ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-443": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],  
+      "right": ["ERA", "ERB", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-962": {
+    "ses-01": {
+      "left": ["ELB", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-98": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERE"]
+    }
+  },
+  "sub-958": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT", "ERE"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-971": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT"]
+    },
+    "ses-03": {
+      "left": ["ELC", "ELT", "ELE"],
+      "right": ["ERB", "ERC"]
+    }
+  },
+  "sub-800": {
+    "ses-01": {
+      "left": ["ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-549": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELE"],
+      "right": ["ERB", "ERC", "ERT", "ERE"]
+    }
+  },
+  "sub-849": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELB", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERT", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-815": {
+    "ses-01": {
+      "left": ["ELB", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERE", "ERI"]
+    }
+  },
+  "sub-3906": {
+    "ses-01": {
+      "left": ["ELA", "ELC", "ELT", "ELE"],
+      "right": ["ERB", "ERE", "ERI"]
+    }
+  },
+  "sub-3127": {
+    "ses-01": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE"],
+      "right": ["ERA", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELB", "ELC", "ELT", "ELE"],
+      "right": ["ERA", "ERB", "ERT", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELA", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERC", "ERE"]
+    }
+  },
+  "sub-398": {
+    "ses-01": {
+      "left": ["ELA", "ELC", "ELT", "ELE"],
+      "right": ["ERB", "ERT", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELC", "ELT", "ELE"],
+      "right": ["ERB", "ERT", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELC", "ELE", "ELI"],
+      "right": ["ERT", "ERE", "ERI"]
+    }
+  },
+  "sub-3958": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERC", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERE"]
+    }
+  },
+  "sub-3971": {
+    "ses-01": {
+      "left": ["ELA", "ELC", "ELE", "ERA"],
+      "right": ["ERB", "ERC", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELE", "ELI", "ERA"],
+      "right": ["ERB", "ERE"]
+    }
+  },
+  "sub-485": {
+    "ses-01": {
+      "left": ["ELE"],
+      "right": ["ERB", "ERC", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELB", "ELE"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELB", "ELE"],
+      "right": ["ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-3422": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELE"],
+      "right": ["ERA", "ERB", "ERC", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELA", "ELB", "ELC", "ELE"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE"]
+    },
+    "ses-03": {
+      "left": ["ELA", "ELB", "ELC", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERE", "ERI"]
+    }
+  },
+  "sub-959": {
+    "ses-01": {
+      "left": ["ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERA", "ERB", "ERC", "ERT", "ERE", "ERI"]
+    },
+    "ses-02": {
+      "left": ["ELB", "ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERC", "ERI"]
+    },
+    "ses-03": {
+      "left": ["ELC", "ELT", "ELE", "ELI"],
+      "right": ["ERB", "ERT", "ERE", "ERI"]
+    }
+  }
+}
