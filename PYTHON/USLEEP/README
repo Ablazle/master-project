@@ -1,1 +1,1 @@
-The folders contain sleep stages from home recordings
+The `OUS_files` directory contains ambulatory EEG recordings. The `Ear_Derivates_Sleep_Stages` directory contains sleep stage data derived from home recordings. The `majority-voted` directory contains majority-voted CSV files generated from the home recording datasets.
